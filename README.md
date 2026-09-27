@@ -1,7 +1,5 @@
-# Hi, I'm Heysel Oviedo
-<a href="YOUR-LINKEDIN-URL">
-    <img src="https://img.shields.io/badge/-LinkedIn-0072B1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+# Hello, I'm Heysel Oviedo
+<a href="https://www.linkedin.com/in/heysel-oviedo-2534172b4"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an emerging cybersecurity professional with a strong interest in technology and a drive to understand, analyze, and solve complex problems.
 
@@ -9,7 +7,6 @@ I am an emerging cybersecurity professional with a strong interest in technology
 
 Cybersecurity has become the direction I want to take my career, combining my technical background with my interest in investigating and responding to security threats. I am specifically pursuing opportunities as a Digital Forensics Analyst or SOC Analyst.
 
-## Skills
 ## Skills
 
 | Skill | Associated Project |
