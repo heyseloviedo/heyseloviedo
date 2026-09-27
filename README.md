@@ -1,16 +1,17 @@
-## Hi there 👋
+# Heysel Oviedo
 
-<!--
-**heyseloviedo/heyseloviedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student at Miami Dade College, pursuing a bachelor's degree with an expected graduation in December 2026. I am interested in digital forensics, security analysis, and SOC work.
 
-Here are some ideas to get you started:
+My experience includes an IT Operations internship at Miami Dade College, where I worked with computer imaging, Active Directory tasks, classroom technology checks, and support tickets. I use this space to document security investigations and technical projects in a clear, reproducible way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured project
+
+- [HTTP traffic analysis](projects/http-traffic-analysis/README.md) — Examined a packet capture in Wireshark to trace an image request, identify the HTTP response, and distinguish observed facts from security conclusions.
+
+## Skills and tools
+
+Wireshark · network traffic analysis · Linux command line · digital forensics fundamentals · Active Directory · technical documentation · English and Spanish
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/heysel-oviedo-2534172b4/)
