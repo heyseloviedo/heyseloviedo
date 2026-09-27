@@ -46,7 +46,7 @@ Cybersecurity has become the direction I want to take my career, combining my te
 
 <div>
     <a href="CREDENTIAL-LINK">
-        <img src="https://img.shields.io/badge/A.S._Cybersecurity-Miami_Dade_College-00529B?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/A.S.-Cybersecurity-00529B?style=for-the-badge" />
     </a>
     <a href="CREDENTIAL-LINK">
         <img src="https://img.shields.io/badge/CCC-Cybersecurity_Analysis-00529B?style=for-the-badge" />
