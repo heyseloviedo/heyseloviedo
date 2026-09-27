@@ -36,7 +36,7 @@ binwalk green_file
 
 Binwalk identified multiple file signatures, including a gzip-compressed section beginning at byte offset `3243`.
 
-![Binwalk results](assets/binwalk-results.jpg)
+![Binwalk results](assets/binwalk-results.svg)
 
 ### 3. Extract the embedded gzip data
 
@@ -99,7 +99,7 @@ cat flags/flags.txt
 
 This revealed the hidden challenge flag.
 
-![Flag recovery](assets/flag-recovery.jpg)
+![Flag recovery](assets/flag-recovery.svg)
 
 ## What I Learned
 
