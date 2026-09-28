@@ -5,7 +5,7 @@ I am an emerging cybersecurity professional with a strong interest in technology
 
 ## Objective
 
-Cybersecurity has become the direction I want to take my career, combining my technical background with my interest in investigating and responding to security threats. I am specifically pursuing opportunities as a Digital Forensics Analyst or SOC Analyst.
+Cybersecurity has become the direction I want to take my career, combining my technical background with my interest in investigating and responding to security threats. I am specifically pursuing opportunities as a Digital Forensics Analyst and SOC Analyst.
 
 ## Skills
 
