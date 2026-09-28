@@ -15,8 +15,8 @@ Cybersecurity has become the direction I want to take my career, combining my te
 | Network Traffic & Packet Analysis | <a href="PROJECT-LINK">DNS Traffic Analysis</a> |
 | HTTP Traffic Investigation | <a href="PROJECT-LINK">HTTP Traffic Analysis</a> |
 | Log Analysis | <a href="PROJECT-LINK">Squid Proxy Log Analysis</a> |
-| Linux Credential & Hash Analysis | <a href="PROJECT-LINK">Linux Credential Analysis & Password Recovery</a> |
-| Password Cracking & Hash Recovery | <a href="PROJECT-LINK">RockYou Password Cracking</a> |
+| Linux Credential & Hash Analysis | <a href="https://github.com/heyseloviedo/Password-Cracking-CTF">Linux Credential Analysis & Password Recovery</a> |
+
 
 
 ## Tools
@@ -60,7 +60,7 @@ Cybersecurity has become the direction I want to take my career, combining my te
 ## Projects
 
 - <a href="PROJECT-LINK">File Carving Forensics Challenge</a>
-- <a href="PROJECT-LINK">Linux Credential Analysis & Password Recovery</a>
+- <a href="https://github.com/heyseloviedo/Password-Cracking-CTF">Linux Credential Analysis & Password Recovery</a>
 - <a href="PROJECT-LINK">DNS Traffic Analysis</a>
 - <a href="PROJECT-LINK">HTTP Traffic Analysis</a>
 - <a href="PROJECT-LINK">Squid Proxy Log Analysis</a>
