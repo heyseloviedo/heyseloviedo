@@ -59,14 +59,19 @@ Cybersecurity has become the direction I want to take my career, combining my te
 
 ## Projects
 
-- <a href="PROJECT-LINK">File Carving Forensics Challenge</a>
-- <a href="https://github.com/heyseloviedo/Password-Cracking-CTF">Linux Credential Analysis & Password Recovery</a>
-- <a href="PROJECT-LINK">DNS Traffic Analysis</a>
-- <a href="PROJECT-LINK">HTTP Traffic Analysis</a>
-- <a href="PROJECT-LINK">Squid Proxy Log Analysis</a>
-- <a href="PROJECT-LINK">RockYou Password Cracking</a>
+<b>Digital Forensics & Credential Analysis</b><br>
+• <a href="PROJECT-LINK">File Carving Forensics Challenge</a><br>
+• <a href="https://github.com/heyseloviedo/Password-Cracking-CTF">Linux Credential Analysis & Password Recovery</a><br><br>
 
-Open source Intelligence
-- <a href="https://github.com/heyseloviedo/PGP-Key-Lookup-CTF">PGP Key Lookup</a>
-- <a href="https://github.com/heyseloviedo/WHOIS-Domain-Investigation">WHOIS Domain Investigation</a>
-- <a href="https://github.com/heyseloviedo/SSL-Certificate-Analysis-CTF">SSL Certificate Analysis</a>
+<b>Network Traffic & Log Analysis</b><br>
+• <a href="PROJECT-LINK">DNS Traffic Analysis</a><br>
+• <a href="PROJECT-LINK">HTTP Traffic Analysis</a><br>
+• <a href="PROJECT-LINK">Squid Proxy Log Analysis</a><br><br>
+
+<b>Password Security</b><br>
+• <a href="PROJECT-LINK">RockYou Password Cracking</a>
+
+<b>Open Source Intelligence</b><br>
+• <a href="https://github.com/heyseloviedo/PGP-Key-Lookup-CTF">PGP Key Lookup</a><br>
+• <a href="https://github.com/heyseloviedo/WHOIS-Domain-Investigation">WHOIS Domain Investigation</a><br>
+• <a href="https://github.com/heyseloviedo/SSL-Certificate-Analysis-CTF">SSL Certificate Analysis</a>
