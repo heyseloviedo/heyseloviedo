@@ -61,15 +61,15 @@ Cybersecurity has become the direction I want to take my career, combining my te
 
 <b>Digital Forensics & Credential Analysis</b><br>
 • <a href="PROJECT-LINK">File Carving Forensics Challenge</a><br>
-• <a href="https://github.com/heyseloviedo/Password-Cracking-CTF">Linux Credential Analysis & Password Recovery</a><br><br>
+• <a href="https://github.com/heyseloviedo/Password-Cracking-CTF">Linux Credential Analysis & Password Recovery</a><br>
 
 <b>Network Traffic & Log Analysis</b><br>
 • <a href="PROJECT-LINK">DNS Traffic Analysis</a><br>
 • <a href="PROJECT-LINK">HTTP Traffic Analysis</a><br>
-• <a href="PROJECT-LINK">Squid Proxy Log Analysis</a><br><br>
+• <a href="PROJECT-LINK">Squid Proxy Log Analysis</a><br>
 
 <b>Password Security</b><br>
-• <a href="PROJECT-LINK">RockYou Password Cracking</a>
+• <a href="PROJECT-LINK">RockYou Password Cracking</a><br>
 
 <b>Open Source Intelligence</b><br>
 • <a href="https://github.com/heyseloviedo/PGP-Key-Lookup-CTF">PGP Key Lookup</a><br>
