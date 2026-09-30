@@ -65,4 +65,5 @@ Cybersecurity has become the direction I want to take my career, combining my te
 - <a href="PROJECT-LINK">HTTP Traffic Analysis</a>
 - <a href="PROJECT-LINK">Squid Proxy Log Analysis</a>
 - <a href="PROJECT-LINK">RockYou Password Cracking</a>
-- <a href="https://github.com/heyseloviedo/PGP-Key-Lookup-CTF">PGP Key Lookup CTF</a>
+- <a href="https://github.com/heyseloviedo/PGP-Key-Lookup-CTF">PGP Key Lookup</a>
+- <a href="https://github.com/heyseloviedo/WHOIS-Domain-Investigation">WHOIS Domain Investigation</a>
