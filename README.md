@@ -11,7 +11,7 @@ Cybersecurity has become the direction I want to take my career, combining my te
 
 | Skill | Associated Project |
 |-------|-------------------|
-| Digital Forensics & File Analysis | <a href="PROJECT-LINK">File Carving Forensics Challenge</a> |
+| Digital Forensics & File Analysis | <a href="https://github.com/heyseloviedo/File-Carving-Forensics-Challenge">File Carving Forensics Challenge</a> |
 | Network Traffic & Packet Analysis | <a href="PROJECT-LINK">DNS Traffic Analysis</a> |
 | HTTP Traffic Investigation | <a href="PROJECT-LINK">HTTP Traffic Analysis</a> |
 | Log Analysis | <a href="PROJECT-LINK">Squid Proxy Log Analysis</a> |
@@ -60,7 +60,7 @@ Cybersecurity has become the direction I want to take my career, combining my te
 ## Projects
 
 <b>Digital Forensics & Credential Analysis</b><br>
-• <a href="PROJECT-LINK">File Carving Forensics Challenge</a><br>
+• <a href="https://github.com/heyseloviedo/File-Carving-Forensics-Challenge">File Carving Forensics Challenge</a><br>
 • <a href="https://github.com/heyseloviedo/Password-Cracking-CTF">Linux Credential Analysis & Password Recovery</a><br>
 
 <b>Network Traffic & Log Analysis</b><br>
