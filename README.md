@@ -63,6 +63,8 @@ Cybersecurity has become the direction I want to take my career, combining my te
 • <a href="https://github.com/heyseloviedo/File-Carving-Forensics-Challenge">File Carving Forensics Challenge</a><br>
 • <a href="https://github.com/heyseloviedo/Password-Cracking-CTF">Linux Credential Analysis & Password Recovery</a><br>
 • <a href="https://github.com/heyseloviedo/YARA-Sensitive-Data-Analysis">YARA Sensitive Data Analysis</a><br>
+• <a href="https://github.com/heyseloviedo/Firefox-Browsing-History-Analysis-SQLite-Forensics">Firefox Browsing History Analysis | SQLite Forensics</a><br>
+
 
 <b>Network Traffic & Log Analysis</b><br>
 • <a href="https://github.com/heyseloviedo/Squid-Proxy-Log-Analysis">Squid Proxy Log Analysis</a><br>
